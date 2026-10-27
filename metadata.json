@@ -1,0 +1,6 @@
+{
+  "name": "IGCSE Mathematics 0580 - Topic 19: Symmetry",
+  "description": "Interactive learning masterclass for IGCSE Mathematics 0580 Topic 19: Line Symmetry, Rotational Symmetry, 3D Plane Symmetry, worked examples, and final assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
